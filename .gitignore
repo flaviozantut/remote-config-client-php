@@ -1,4 +1,9 @@
 /vendor
 /.phpintel
+/.idea
 
 composer.lock
+.buildpath
+.project
+.settings
+
